@@ -153,10 +153,10 @@ export default withOGImage<'query', 'id'>({
 
 const style = `
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Urbanist', sans-serif;
   font-style:  normal;
   font-weight: normal;
-  src: url(data:font/woff2;charset=utf-8;base64,${interRegular}) format('woff2');
+  src: url(https://fonts.googleapis.com/css2?family=Urbanist) format('woff2');
 }
 
 :root {
