@@ -18,9 +18,9 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
-  // newsletter: '#', // optional newsletter URL
+  github: 'aecdevforum',
+  linkedin: '#',
+  newsletter: 'mailto:aecdevforum@gmail.com', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
