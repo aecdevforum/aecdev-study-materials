@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Aecdev Study Materials',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://aecdev-edu.vercel.app/',
   author: 'Team AECDEV',
 
   // open graph metadata (optional)
