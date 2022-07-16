@@ -1,18 +1,38 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "AECDEV Study Materials",
+  "short_name": "AECDEVSM",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/favicon.ico",
+      "type": "image/ico",
+      "sizes": "32x32"
+    },
+        {
+      "src": "/favicon-32x32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
-    {
-      "src": "/favicon-128x128.png",
+        {
+      "src": "/favicon-16x16.png",
       "type": "image/png",
-      "sizes": "128x128"
+      "sizes": "16x16"
     },
     {
+      "src": "/android-chrome-192×192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-512×512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+        {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+        {
       "src": "/favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
