@@ -17,6 +17,7 @@ html {
 body {
   --notion-font:'Urbanist', sans-serif;
   font-family: var(--notion-font);
+  letter-spacing: 1px;
   overflow-x: hidden;
 }
 
@@ -31,4 +32,16 @@ body {
 .static-tweet-emoji {
   height: 1.2em !important;
   width: 1.2em !important;
+}
+
+        body::-webkit-scrollbar {
+  width: 8px;              /* width of the entire scrollbar */
+}
+body::-webkit-scrollbar-track {
+  background: transparent;        /* color of the tracking area */
+}
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(189, 189, 190);    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+   /* creates padding around scroll thumb */
 }
