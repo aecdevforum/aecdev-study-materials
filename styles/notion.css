@@ -363,7 +363,7 @@
   backdrop-filter: saturate(180%) blur(8px);
 }
 
-.dark mode {
+.dark-mode {
   bg-color: #2e094c;
 }
 
