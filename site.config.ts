@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'A large variety of study materials including coding,soft-skills,etc.',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: '#',
   github: 'aecdevforum',
   linkedin: '#',
   newsletter: 'mailto:aecdevforum@gmail.com', // optional newsletter URL
