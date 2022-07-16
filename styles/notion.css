@@ -363,6 +363,10 @@
   backdrop-filter: saturate(180%) blur(8px);
 }
 
+.dark mode {
+  bg-color: #2e094c;
+}
+
 /* Workaround for Firefox not supporting backdrop-filter yet */
 @-moz-document url-prefix() {
   .dark-mode .notion-header {
